@@ -1,3 +1,6 @@
+## LIVE DEMO
+[http://detikclone.vercel.app](http://detikclone.vercel.app)
+
 ## Getting Started
 
 First, run the development server:
